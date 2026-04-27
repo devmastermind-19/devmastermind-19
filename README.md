@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me
-I'm a software engineering student who cares deeply about what happens **after** the code is written. My focus sits at the intersection of **Quality Engineering**,**SDLC**,**Clean System Design**, and **Automated Testing** — because software that works is only half the job.
+I'm a software engineering student who cares deeply about what happens **after** the code is written. My focus sits at the intersection of **Quality Engineering**, **SDLC** ,**Clean System Design**, and **Automated Testing** — because software that works is only half the job.
 
 - 🎓 Studying at **FAST NUCES, CFD Campus**.
 - 🛠️ Passionate about building robust, scalable systems and ensuring high-quality delivery.
-- 🎯 Open to internships and collaborative projects in SQA and Full Stack Development.
+- 🎯 Open to internships and collaborative projects in SQA and Web Development.
 
 ---
 
