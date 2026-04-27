@@ -1,5 +1,5 @@
 # Hi there, I'm Mubashra Afzal 👋
-### Software Engineering Student | FAST NUCES (CFD) | Class of 2027
+### Software Engineering Student | FAST NUCES (CFD) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQA-Quality%20Engineering-blue?style=flat-square">
